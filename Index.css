@@ -1,0 +1,71 @@
+
+.companyName{
+  font-size: 30px;
+  font-weight: bold;
+}
+.links{
+  font-size: 20px;
+}
+.registerBox{
+  width: 80%;
+  min-height:300px ;
+  background: linear-gradient(130deg,#4CAF50 0%,  #4CAF50 50%, #000 50%, #000 100% );
+  justify-self: center;
+  padding: 9px;
+}
+.transform{
+  font-size: 25;
+  font-weight: bold;
+  color: white;
+  justify-self: center !important;
+}
+.register{
+  width: 85%;
+  padding: 5px;
+  justify-self: center;
+}
+.btn{
+  width: 100%;
+}
+.faA{
+  font-size: 25px !important;
+}
+input{
+  background-color: #c8e6c9 !important;
+}
+.card{
+  background-color:#c8e6c9 !important;
+}
+/* Remove shaking (prevent horizontal scroll) */
+html, body {
+  overflow-x: hidden;
+  background-color:#C8E6C9 !important ;
+}
+
+/* Fix bootstrap row overflow */
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* Responsive video */
+video {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+}
+
+/* Card polish */
+.card {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+/* Navbar brand styling */
+.navbar-brand {
+  font-size: 1.25rem;
+}
+.myIcon{
+  font-size: 2rem !important;
+}
